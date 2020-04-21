@@ -1,6 +1,6 @@
 ### 正则匹配Number字面量
 
-Number有哪些字面量 ？
+Number字面量 ？
 
 - 整数
 
